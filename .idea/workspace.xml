@@ -17,7 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d8f1b40-66e0-49d9-9166-47885a14f00d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,14 +250,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600945330711" />
-    <state x="836" y="418" key="Github.ShareDialog" timestamp="1600944047793">
+    <state x="836" y="418" key="Github.ShareDialog" timestamp="1600945527722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="836" y="418" key="Github.ShareDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600944047793" />
-    <state x="575" y="225" width="626" height="590" key="Github.UntrackedFilesDialog" timestamp="1600943893523">
+    <state x="836" y="418" key="Github.ShareDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600945527722" />
+    <state x="575" y="225" width="626" height="590" key="Github.UntrackedFilesDialog" timestamp="1600945554453">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="575" y="225" width="626" height="590" key="Github.UntrackedFilesDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600943893523" />
+    <state x="575" y="225" width="626" height="590" key="Github.UntrackedFilesDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600945554453" />
     <state width="1899" height="294" key="GridCell.Tab.0.bottom" timestamp="1600884960908">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -298,10 +298,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="725" y="222" key="RollbackChangesDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600943978674" />
-    <state x="322" y="176" key="SettingsEditor" timestamp="1600945512412">
+    <state x="322" y="176" key="SettingsEditor" timestamp="1600946233205">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="322" y="176" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600945512412" />
+    <state x="322" y="176" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600946233205" />
     <state x="762" y="254" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1600944075725">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
