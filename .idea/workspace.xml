@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d8f1b40-66e0-49d9-9166-47885a14f00d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectId" id="1c8dpX9NjDEPl9asfvSMoNwormN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../git_messier" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mateusz\PycharmProjects\magisterka\gui" />
+      <recent name="C:\Users\Mateusz\PycharmProjects\magisterka\" />
+      <recent name="C:\Users\Mateusz\PycharmProjects\magisterka\gui\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mateusz\PycharmProjects\magisterka\venv1\Lib" />
+      <recent name="C:\Users\Mateusz\PycharmProjects\magisterka\gui" />
+      <recent name="C:\Users\Mateusz\PycharmProjects\magisterka" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.gui">
+    <configuration name="gui" type="PythonConfigurationType" factoryName="Python">
+      <module name="magisterka" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DYLD_LIBRARY_PATH" value="C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\bin\" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui/gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="messier_list" type="PythonConfigurationType" factoryName="Python">
+      <module name="magisterka" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Mateusz\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Mateusz\PycharmProjects\magisterka\messier.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read_files" type="PythonConfigurationType" factoryName="Python">
+      <module name="magisterka" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Mateusz\PycharmProjects\magisterka\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gui" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui/read_files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="widgets_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="magisterka" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/widgets_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.gui" />
+      <item itemvalue="Python.messier_list" />
+      <item itemvalue="Python.read_files" />
+      <item itemvalue="Python.widgets_example" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.widgets_example" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Mateusz\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d8f1b40-66e0-49d9-9166-47885a14f00d" name="Default Changelist" comment="" />
+      <created>1589914337795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589914337795</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/gui" />
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/../git_messier" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="160" y="0" width="1375" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598524054735">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="160" y="0" width="1375" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598524054735" />
+    <state x="688" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596134199753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="688" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596134199753" />
+    <state x="815" y="239" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1595241626073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="815" y="239" key="#com.intellij.ide.macro.MacrosDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595241626073" />
+    <state x="788" y="235" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1595242019111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="788" y="235" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595242019111" />
+    <state x="728" y="350" width="614" height="368" key="#com.intellij.tools.ToolEditorDialog" timestamp="1595241823813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="350" width="614" height="368" key="#com.intellij.tools.ToolEditorDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595241823813" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1600945287726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600945287726" />
+    <state x="969" y="275" width="580" height="489" key="EnvironmentVariablesDialog" timestamp="1597009130076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="969" y="275" width="580" height="489" key="EnvironmentVariablesDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597009130076" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1600945330711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600945330711" />
+    <state x="836" y="418" key="Github.ShareDialog" timestamp="1600944047793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="836" y="418" key="Github.ShareDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600944047793" />
+    <state x="575" y="225" width="626" height="590" key="Github.UntrackedFilesDialog" timestamp="1600943893523">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="575" y="225" width="626" height="590" key="Github.UntrackedFilesDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600943893523" />
+    <state width="1899" height="294" key="GridCell.Tab.0.bottom" timestamp="1600884960908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="294" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600884960908" />
+    <state width="1899" height="278" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1597707975761" />
+    <state width="1899" height="294" key="GridCell.Tab.0.center" timestamp="1600884960908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="294" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600884960908" />
+    <state width="1899" height="278" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1597707975761" />
+    <state width="1899" height="294" key="GridCell.Tab.0.left" timestamp="1600884960908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="294" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600884960908" />
+    <state width="1899" height="278" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1597707975761" />
+    <state width="1899" height="294" key="GridCell.Tab.0.right" timestamp="1600884960908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="294" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600884960908" />
+    <state width="1899" height="278" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1597707975761" />
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom" timestamp="1598370531084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598370531084" />
+    <state width="1899" height="347" key="GridCell.Tab.1.center" timestamp="1598370531084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598370531084" />
+    <state width="1899" height="347" key="GridCell.Tab.1.left" timestamp="1598370531083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598370531083" />
+    <state width="1899" height="347" key="GridCell.Tab.1.right" timestamp="1598370531084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598370531084" />
+    <state x="725" y="222" key="RollbackChangesDialog" timestamp="1600943978674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="725" y="222" key="RollbackChangesDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600943978674" />
+    <state x="322" y="176" key="SettingsEditor" timestamp="1600945512412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="322" y="176" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600945512412" />
+    <state x="762" y="254" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1600944075725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="762" y="254" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600944075725" />
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600945027389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600945027389" />
+    <state x="764" y="381" key="git4idea.rebase.GitRebaseDialog" timestamp="1600945283476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="381" key="git4idea.rebase.GitRebaseDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600945283476" />
+    <state x="745" y="414" key="git4idea.ui.GitResetDialog" timestamp="1600945254097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="745" y="414" key="git4idea.ui.GitResetDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600945254097" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597576866096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597576866096" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gui/gui.py</url>
+          <line>621</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
