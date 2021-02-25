@@ -78,7 +78,7 @@ When app is launched user can select from side navbar interesting options.
 ## Setup
 If you are interested in running this project, two ways are available for you:
 
-First way (recommended)
+First way
 
 0. Ensure Python 3.7.8 is installed
 1. Clone or download repository to desired folder
@@ -89,6 +89,10 @@ Messier Object Identification/gui
 c:\MessierObjectIdentification\gui>python gui.py
 ```
 
-Second way (not recommended, as it wasn't tested for every system). Download from link below:
+Second way
+1. Download from link below:
 
-[Download](https://drive.google.com/drive/folders/14A8dVAiegNHl6VE00j1V5XAzOI0-ZZrr?usp=sharing)
+    [Messier Object Identifcation](https://drive.google.com/drive/folders/14A8dVAiegNHl6VE00j1V5XAzOI0-ZZrr?usp=sharing)
+2. Unzip contents to desired folder.
+3. Open /gui folder and look for Messier.exe
+4. Run executable
